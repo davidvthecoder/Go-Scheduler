@@ -1,0 +1,4 @@
+cron:
+- description: Call google daily
+  url: /callgoogle
+  schedule: every 24 hours
